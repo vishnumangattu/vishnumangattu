@@ -30,8 +30,11 @@
 <div width="100%" align="center"><a href="https://github.com/vishnumangattu/CHATAPP" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumangattu&repo=CHATAPP&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vishnumangattu/SHOPPIE" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumangattu&repo=SHOPPIE&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Badges
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=vishnumangattu&theme=onedark&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/vishnumangattu">
+    <img src="https://github-profile-trophy.vercel.app/?username=vishnumangattu&theme=algolia&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+  </a>
+</p>
 
 
 

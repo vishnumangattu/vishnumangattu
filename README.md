@@ -18,5 +18,5 @@
 [![](https://visitcount.itsvg.in/api?id=vishnumangattu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=vishnumangattu)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vishnumangattu)]
 

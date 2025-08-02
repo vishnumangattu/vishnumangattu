@@ -31,6 +31,7 @@
 
 ### Badges
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vishnumangattu&theme=onedark&row=2&column=4)]
+[![Trophy](https://github-profile-trophy.vercel.app/?username=vishnumangattu01&theme=onedark&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 

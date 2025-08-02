@@ -30,8 +30,13 @@
 <div width="100%" align="center"><a href="https://github.com/vishnumangattu/CHATAPP" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumangattu&repo=CHATAPP&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vishnumangattu/SHOPPIE" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumangattu&repo=SHOPPIE&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Badges
-![Custom Badge](https://img.shields.io/badge/Skill-Level🔥-Expert-informational?style=flat&logo=github&color=blue)
+## 🏆 GitHub Achievements
 
+<p align="center">
+  <a href="https://github.com/vishnumangattu">
+    <img src="https://github-profile-trophy.vercel.app/?username=vishnumangattu&theme=algolia&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+  </a>
+</p>
 
 
 
